@@ -8,13 +8,9 @@ The goal of this project is to create a centralized knowledge hub where students
 
 ## 🎯 Features
 
-✅ Semester-wise organization
-
 ✅ Subject-wise notes
 
 ✅ Syllabus 
-
-✅ Timetables
 
 ✅ Academic resources
 
