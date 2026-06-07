@@ -1,6 +1,6 @@
 # 📚 Engineering Notes 
 
-This is a free and open-source repository that provides engineering students with easy access to notes, syllabi, question papers, timetables, and other academic resources.
+This is a free and open-source repository that provides engineering students with easy access to notes, syllabi, timetables, and other academic resources.
 
 The goal of this project is to create a centralized knowledge hub where students can find study materials quickly and contribute resources to help others.
 
